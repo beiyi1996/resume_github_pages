@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.css": "/resume_github_pages/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/resume_github_pages/static/js/main.60737ce4.chunk.js",
-    "main.js.map": "/resume_github_pages/static/js/main.60737ce4.chunk.js.map",
-    "runtime-main.js": "/resume_github_pages/static/js/runtime-main.75e9d74e.js",
-    "runtime-main.js.map": "/resume_github_pages/static/js/runtime-main.75e9d74e.js.map",
-    "static/js/2.952d0714.chunk.js": "/resume_github_pages/static/js/2.952d0714.chunk.js",
-    "static/js/2.952d0714.chunk.js.map": "/resume_github_pages/static/js/2.952d0714.chunk.js.map",
-    "static/js/3.0d3d844b.chunk.js": "/resume_github_pages/static/js/3.0d3d844b.chunk.js",
-    "static/js/3.0d3d844b.chunk.js.map": "/resume_github_pages/static/js/3.0d3d844b.chunk.js.map",
+    "main.css": "/resume_github_pages/static/css/main.c3c9578c.chunk.css",
+    "main.js": "/resume_github_pages/static/js/main.7a88ac9e.chunk.js",
+    "main.js.map": "/resume_github_pages/static/js/main.7a88ac9e.chunk.js.map",
+    "runtime-main.js": "/resume_github_pages/static/js/runtime-main.a91ebab1.js",
+    "runtime-main.js.map": "/resume_github_pages/static/js/runtime-main.a91ebab1.js.map",
+    "static/js/2.9b7454cc.chunk.js": "/resume_github_pages/static/js/2.9b7454cc.chunk.js",
+    "static/js/2.9b7454cc.chunk.js.map": "/resume_github_pages/static/js/2.9b7454cc.chunk.js.map",
+    "static/js/3.598486d1.chunk.js": "/resume_github_pages/static/js/3.598486d1.chunk.js",
+    "static/js/3.598486d1.chunk.js.map": "/resume_github_pages/static/js/3.598486d1.chunk.js.map",
     "index.html": "/resume_github_pages/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/resume_github_pages/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.952d0714.chunk.js.LICENSE.txt": "/resume_github_pages/static/js/2.952d0714.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/resume_github_pages/static/media/logo.6ce24c58.svg"
+    "static/css/main.c3c9578c.chunk.css.map": "/resume_github_pages/static/css/main.c3c9578c.chunk.css.map",
+    "static/js/2.9b7454cc.chunk.js.LICENSE.txt": "/resume_github_pages/static/js/2.9b7454cc.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/resume_github_pages/static/media/Sinhala MN.5a128a47.ttc",
+    "static/media/Winni.62d2db08.png": "/resume_github_pages/static/media/Winni.62d2db08.png",
+    "static/media/bookig_system.8095ba4a.jpg": "/resume_github_pages/static/media/bookig_system.8095ba4a.jpg",
+    "static/media/bot_designer.97af0c1d.jpg": "/resume_github_pages/static/media/bot_designer.97af0c1d.jpg",
+    "static/media/data_startupterrace.fcb7317f.png": "/resume_github_pages/static/media/data_startupterrace.fcb7317f.png",
+    "static/media/essences.619be0fa.jpeg": "/resume_github_pages/static/media/essences.619be0fa.jpeg",
+    "static/media/github-logo.492752e6.svg": "/resume_github_pages/static/media/github-logo.492752e6.svg",
+    "static/media/github.06d39c41.svg": "/resume_github_pages/static/media/github.06d39c41.svg",
+    "static/media/linebot.aecb7c7b.png": "/resume_github_pages/static/media/linebot.aecb7c7b.png",
+    "static/media/liontravel_activity.b9b413fe.jpg": "/resume_github_pages/static/media/liontravel_activity.b9b413fe.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.75e9d74e.js",
-    "static/js/2.952d0714.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.60737ce4.chunk.js"
+    "static/js/runtime-main.a91ebab1.js",
+    "static/js/2.9b7454cc.chunk.js",
+    "static/css/main.c3c9578c.chunk.css",
+    "static/js/main.7a88ac9e.chunk.js"
   ]
 }
