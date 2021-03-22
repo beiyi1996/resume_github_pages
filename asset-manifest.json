@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/resume_github_pages/static/css/main.74da13c5.chunk.css",
-    "main.js": "/resume_github_pages/static/js/main.059b983b.chunk.js",
-    "main.js.map": "/resume_github_pages/static/js/main.059b983b.chunk.js.map",
+    "main.css": "/resume_github_pages/static/css/main.e6c6e487.chunk.css",
+    "main.js": "/resume_github_pages/static/js/main.a26b1ec9.chunk.js",
+    "main.js.map": "/resume_github_pages/static/js/main.a26b1ec9.chunk.js.map",
     "runtime-main.js": "/resume_github_pages/static/js/runtime-main.a91ebab1.js",
     "runtime-main.js.map": "/resume_github_pages/static/js/runtime-main.a91ebab1.js.map",
     "static/js/2.22e7829d.chunk.js": "/resume_github_pages/static/js/2.22e7829d.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.598486d1.chunk.js": "/resume_github_pages/static/js/3.598486d1.chunk.js",
     "static/js/3.598486d1.chunk.js.map": "/resume_github_pages/static/js/3.598486d1.chunk.js.map",
     "index.html": "/resume_github_pages/index.html",
-    "static/css/main.74da13c5.chunk.css.map": "/resume_github_pages/static/css/main.74da13c5.chunk.css.map",
+    "static/css/main.e6c6e487.chunk.css.map": "/resume_github_pages/static/css/main.e6c6e487.chunk.css.map",
     "static/js/2.22e7829d.chunk.js.LICENSE.txt": "/resume_github_pages/static/js/2.22e7829d.chunk.js.LICENSE.txt",
     "static/media/index.css": "/resume_github_pages/static/media/Sinhala MN.5a128a47.ttc",
     "static/media/Winni.62d2db08.png": "/resume_github_pages/static/media/Winni.62d2db08.png",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.a91ebab1.js",
     "static/js/2.22e7829d.chunk.js",
-    "static/css/main.74da13c5.chunk.css",
-    "static/js/main.059b983b.chunk.js"
+    "static/css/main.e6c6e487.chunk.css",
+    "static/js/main.a26b1ec9.chunk.js"
   ]
 }
