@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/resume_github_pages/static/css/main.e6c6e487.chunk.css",
-    "main.js": "/resume_github_pages/static/js/main.a26b1ec9.chunk.js",
-    "main.js.map": "/resume_github_pages/static/js/main.a26b1ec9.chunk.js.map",
+    "main.css": "/resume_github_pages/static/css/main.50fd571f.chunk.css",
+    "main.js": "/resume_github_pages/static/js/main.537aae80.chunk.js",
+    "main.js.map": "/resume_github_pages/static/js/main.537aae80.chunk.js.map",
     "runtime-main.js": "/resume_github_pages/static/js/runtime-main.a91ebab1.js",
     "runtime-main.js.map": "/resume_github_pages/static/js/runtime-main.a91ebab1.js.map",
     "static/js/2.22e7829d.chunk.js": "/resume_github_pages/static/js/2.22e7829d.chunk.js",
@@ -10,23 +10,23 @@
     "static/js/3.598486d1.chunk.js": "/resume_github_pages/static/js/3.598486d1.chunk.js",
     "static/js/3.598486d1.chunk.js.map": "/resume_github_pages/static/js/3.598486d1.chunk.js.map",
     "index.html": "/resume_github_pages/index.html",
-    "static/css/main.e6c6e487.chunk.css.map": "/resume_github_pages/static/css/main.e6c6e487.chunk.css.map",
+    "static/css/main.50fd571f.chunk.css.map": "/resume_github_pages/static/css/main.50fd571f.chunk.css.map",
     "static/js/2.22e7829d.chunk.js.LICENSE.txt": "/resume_github_pages/static/js/2.22e7829d.chunk.js.LICENSE.txt",
     "static/media/index.css": "/resume_github_pages/static/media/Sinhala MN.5a128a47.ttc",
     "static/media/Winni.62d2db08.png": "/resume_github_pages/static/media/Winni.62d2db08.png",
-    "static/media/bookig_system.8095ba4a.jpg": "/resume_github_pages/static/media/bookig_system.8095ba4a.jpg",
+    "static/media/bookig_system.15f7a0d5.png": "/resume_github_pages/static/media/bookig_system.15f7a0d5.png",
     "static/media/bot_designer.97af0c1d.jpg": "/resume_github_pages/static/media/bot_designer.97af0c1d.jpg",
-    "static/media/data_startupterrace.fcb7317f.png": "/resume_github_pages/static/media/data_startupterrace.fcb7317f.png",
+    "static/media/data_startupterrace.ccd61b93.png": "/resume_github_pages/static/media/data_startupterrace.ccd61b93.png",
     "static/media/essences.619be0fa.jpeg": "/resume_github_pages/static/media/essences.619be0fa.jpeg",
     "static/media/github-logo.492752e6.svg": "/resume_github_pages/static/media/github-logo.492752e6.svg",
     "static/media/github.06d39c41.svg": "/resume_github_pages/static/media/github.06d39c41.svg",
-    "static/media/linebot.aecb7c7b.png": "/resume_github_pages/static/media/linebot.aecb7c7b.png",
-    "static/media/liontravel_activity.b9b413fe.jpg": "/resume_github_pages/static/media/liontravel_activity.b9b413fe.jpg"
+    "static/media/linebot.862c2c2d.png": "/resume_github_pages/static/media/linebot.862c2c2d.png",
+    "static/media/liontravel_activity.8b9996ff.jpg": "/resume_github_pages/static/media/liontravel_activity.8b9996ff.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a91ebab1.js",
     "static/js/2.22e7829d.chunk.js",
-    "static/css/main.e6c6e487.chunk.css",
-    "static/js/main.a26b1ec9.chunk.js"
+    "static/css/main.50fd571f.chunk.css",
+    "static/js/main.537aae80.chunk.js"
   ]
 }
